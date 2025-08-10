@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3178ef63e539ed42931b4070d6ce030, type: 3}
+  m_Name: FtsQuiz3-1
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: 9d4af22346f95c743a7f537d61a9f719, type: 3}
+  possibleQuestions:
+  - type: 0
+    question: Struktur A adalah
+    choices:
+    - Duktus striata
+    - Duktus interkalaris
+    - Duktus ekstretori
+    answer: a
+    molaraExplanation: "\u201CBenar! \u201D Duktus interkararis dibentuk oleh epitel
+      selapis kuboid. Duktus ini merupakan duktus yang berhubungan langsung dengan
+      asinar kelenjar dan duktus striata."
+  - type: 0
+    question: Struktur A merupakan bagian dari duktus intralobular
+    choices:
+    - Benar
+    - Salah
+    answer: a
+    molaraExplanation: "\u201CTepat Sekali! \u201D Duktus interkalaris dan striata
+      merupakan bagian dari duktus intralobular. Duktus eksretori yang memiliki diameter
+      terbesar merupakan duktus interlobular."
+  - type: 0
+    question: Pada struktur A dapat ditemukan sel____ yang dapat berkontraksi untuk
+      mendorong sekresi pada sistem duktus
+    choices:
+    - Mioepitel
+    - Miosit
+    - Mioblas
+    answer: a
+    molaraExplanation: "\u201CBenar! \u201D  Mioepitel ditemukan mengelilingi duktus
+      interkalaris dan striata. Kontraksi sel mioepitel berperan mendorong sekresi
+      cairan saliva keluar. "
+  - type: 0
+    question: Struktur B adalah
+    choices:
+    - Asinar mukus
+    - Asinar serosa
+    - Asinar serosa demilun
+    answer: a
+    molaraExplanation: "\u201CBenar! \u201D Gambaran histologi asinar mukus berwarna
+      pucat, berbeda dengan asinar serosa yang lebih berwarna. Nukleus asinar mukus
+      berbentuk pipih dan berada di bagian basal sel. "
+  - type: 0
+    question: Struktur B menghasilkan saliva yang mengandung enzim yang memecah karbohidrat
+    choices:
+    - Benar
+    - Salah
+    answer: b
+    molaraExplanation: "\u201CTepat Sekali! \u201D Asinar mukus mensekresi musin
+      yang berfungsi sebagai pelumas (lubricant)."
+  - type: 0
+    question: Struktur B merupakan kelenjar
+    choices:
+    - Endokrin
+    - Eksokrin
+    - Apokrin
+    answer: b
+    molaraExplanation: Kelenjar eksokrin memproduksi cairan tubuh yang diekskresikan
+      ke permukaan tubuh.
+  - type: 0
+    question: Struktur C adalah
+    choices:
+    - Asinar mukus
+    - Asinar serosa
+    - Asinar serosa demilun
+    answer: b
+    molaraExplanation: "\u201CBenar! \u201D Gambaran histologi asinar mukus berwarna
+      terang, dengan adanya granul zimogen pada sitoplasma sel. "
+  - type: 0
+    question: Struktur C banyak ditemukan pada kelenjar saliva sublingual
+    choices:
+    - Benar
+    - Salah
+    answer: b
+    molaraExplanation: "\u201CTepat Sekali! \u201D Asinar serosa ditemukan paling
+      banyak pada kelenjar parotid, yang memiliki duktus ekstretori Stensonii"
+  - type: 0
+    question: Selain pada kelenjar parotis, struktur C juga dapat ditemukan pada
+      kelenjar
+    choices:
+    - Saliva minor
+    - Submandibular
+    - sublingual
+    answer: b
+    molaraExplanation: "\u201CBenar! \u201D kelenjar saliva mayor submandibular ditemukan
+      asinar mukus dan serosa."

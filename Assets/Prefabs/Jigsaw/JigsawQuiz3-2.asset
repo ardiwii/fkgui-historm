@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3178ef63e539ed42931b4070d6ce030, type: 3}
+  m_Name: JigsawQuiz3-2
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: 74f55484761522d4a97990a7758671f6, type: 3}
+  possibleQuestions:
+  - type: 0
+    question: Sel lemak ditunjuk panah
+    choices:
+    - Merah
+    - Biru
+    - Hitam
+    answer: c
+    molaraExplanation: "\u201CBenar! \u201D Sel lemak (adiposit) mengandung vakuola
+      sebagai tempat penyimpanan lemak (lipid droplets). "
+  - type: 0
+    question: Membran sitoplasma sel lemak ditunjuk panah
+    choices:
+    - Merah
+    - Biru
+    - Hijau
+    answer: a
+    molaraExplanation: "\u201CBenar! \u201D membran ini mengandung banyak reseptor
+      yang berperan pada proses seluler fisiologis maupun kelainan metabolik\u200B"
+  - type: 0
+    question: Nukleus sel adiposit ditunjuk panah
+    choices:
+    - Kuning
+    - Biru
+    - Hijau
+    answer: c
+    molaraExplanation: "\u201CBenar! \u201D Nukleus sel adiposit berada di bagian
+      tepi sel. Sebagian besar sel dipenuhi oleh lipid droplets \u200B"

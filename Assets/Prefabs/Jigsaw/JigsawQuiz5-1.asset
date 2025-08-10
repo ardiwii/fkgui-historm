@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3178ef63e539ed42931b4070d6ce030, type: 3}
+  m_Name: JigsawQuiz5-1
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: 7039b6c3daab9f0449313e32f4eee5a4, type: 3}
+  possibleQuestions:
+  - type: 0
+    question: 'Epitel berlapis gepeng berkeratin ditemukan pada struktur?
+
+'
+    choices:
+    - A
+    - 'B
+
+'
+    - C
+    answer: a
+    molaraExplanation: "\u201CBenar!\u201D Gingiva merupakan mukosa mastikasi yang
+      memiliki struktur epitel berlapis gepeng berkeratin.\r"
+  - type: 0
+    question: 'Epitel berlapis gepeng tidak berkeratin ditemukan pada struktur?
+
+'
+    choices:
+    - A
+    - B
+    - C
+    answer: b
+    molaraExplanation: "\u201CBenar!\u201D Gingiva yang berkontak langsung dengan
+      permukaan gigi memiliki struktur epitel berlapis gepeng tidak berkeratin yang
+      dikenal dengan istilah \u201CJunctional Epithelium\u201D\r\n"
+  - type: 0
+    question: "Alveolar crest ditemukan pada struktur ?\r"
+    choices:
+    - "B\r"
+    - C
+    - D
+    answer: c
+    molaraExplanation: "\u201CBenar!\u201D Alveolar crest merupakan puncak tulang
+      alveolar, jaringan keras spesial yang mendukung gigi\r"

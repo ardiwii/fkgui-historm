@@ -1,0 +1,4 @@
+add these lines to <header> on index.html
+
+    <script type="text/javascript" src="TemplateData/ScormSimulator.js"></script>
+    <script type="text/javascript" src="TemplateData/scorm.js"></script>

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ea8b32786e716e498d2c5903c2d7868, type: 3}
+  m_Name: FtsMission1-4
+  m_EditorClassIdentifier: 
+  realImage: {fileID: 21300000, guid: 5da766d5eca2fc14680beaa2a72cdd98, type: 3}
+  fakeImage: {fileID: 21300000, guid: 0b1da810e4c07584196d7ab10dd15df4, type: 3}
+  spotsPositions:
+  - {x: -207, y: -166}
+  - {x: -138, y: -102}
+  - {x: -118.7314, y: 3.80573}
+  - {x: -102, y: -206}
+  - {x: 57, y: 6}
+  - {x: 98, y: 227}
+  - {x: 177, y: -157}
+  - {x: 196, y: -57}
+  - {x: 249, y: 206}

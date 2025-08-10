@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3178ef63e539ed42931b4070d6ce030, type: 3}
+  m_Name: JigsawQuiz2-1
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: 07e6061c7b313404ebca65d82a8c95ee, type: 3}
+  possibleQuestions:
+  - type: 0
+    question: "Struktur A merupakan?\u200B"
+    choices:
+    - "Hipodermis\u200B"
+    - Dermis
+    - "Submukosa\u200B"
+    answer: a
+    molaraExplanation: "\u201CBenar!\u201D Hipodermis merupakan jaringan di bawah
+      dermis kulit. Pada lapisan ini ditemukan folikel rambut"
+  - type: 0
+    question: Struktur B adalah?
+    choices:
+    - Jaringan epitel
+    - Jaringan otot
+    - Jaringan ikat
+    answer: b
+    molaraExplanation: "\u201CBenar!\u201D Pada jaringan kulit, otot  lurik ditemukan
+      lapisan hipodermis\u200B"
+  - type: 0
+    question: Struktur C merupakan?
+    choices:
+    - Jaringan epitel
+    - Jaringan otot
+    - Jaringan ikat
+    answer: c
+    molaraExplanation: "\u201CBenar!\u201D Jaringan ikat yang terletak di bawah epitelium
+      kulit berada pada lapisan dermis kulit."

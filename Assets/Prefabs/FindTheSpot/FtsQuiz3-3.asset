@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3178ef63e539ed42931b4070d6ce030, type: 3}
+  m_Name: FtsQuiz3-3
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: c634b27fc1adb78438d658755ac94a2b, type: 3}
+  possibleQuestions:
+  - type: 0
+    question: 'Struktur A adalah:'
+    choices:
+    - Kapiler
+    - Duktus striata
+    - Duktus ekstretori
+    answer: b
+    molaraExplanation: "\u201CBenar!\u201D Struktur duktus kelenjar saliva dibedakan
+      dengan pembuluh darah melalui sel pembentuk. Duktur dibentuk oleh sel epitel
+      kuboid/kolumnar, sedangan pembuluh Darah kapiler dibentuk oleh sel endotel.
+      \u200B"
+  - type: 0
+    question: Struktur A dapat ditemukan lebih panjang pada kelenjar parotis
+    choices:
+    - Benar
+    - Salah
+    answer: a
+    molaraExplanation: "\u201CTepat Sekali! \u201D Dibandingkan kelenjar saliva mayor
+      lainnya, duktus striata ditemukan lebih panjang pada kelenjar parotis."
+  - type: 0
+    question: 'Struktur A dibentuk oleh sel:'
+    choices:
+    - Modifikasi saliva hipotonus menjadi isotonus
+    - Homeostasis kelenjar saliva
+    - Mengandung sel punca untuk regenerasi sel asini
+    answer: a
+    molaraExplanation: "\u201CBenar! \u201D  Sel duktus striata memiliki lipatan
+      pada membran basolateral, yang berperan pada proses sekresi dan reabsorpsi
+      elektrolit."
+  - type: 0
+    question: 'Struktur B adalah:'
+    choices:
+    - Asinar mukus
+    - Asinar serosa
+    - Jaringan adiposa
+    answer: a
+    molaraExplanation: "\u201CBenar! \u201D Gambaran histologi asinar mukus berwarna
+      pucat, berbeda dengan asinar serosa yang lebih berwarna. Nukleus asinar mukus
+      berbentuk pipih dan berada di bagian basal sel. "
+  - type: 0
+    question: Struktur B menghasilkan saliva yang lebih kental
+    choices:
+    - Benar
+    - Salah
+    answer: a
+    molaraExplanation: "\u201CBenar! \u201D Asinar mukus mensekresi saliva yang lebih
+      kental yang kaya akan musin yang berfungsi sebagai proteksi dan pelumas (lubricant).\u200B"
+  - type: 0
+    question: Struktur B dapat ditemukan pada kelenjar saliva minor
+    choices:
+    - Benar
+    - Salah
+    answer: a
+    molaraExplanation: "\u201CBenar! \u201D Kelenjar saliva minor umumnya memiliki
+      asinar mukus. Kelenjar ini ditemukan di lapisan submukosa berbagai area pada
+      rongga mulut kecuali gingiva dan palatum durum"
+  - type: 0
+    question: Struktur C yang ditunjuk oleh panah adalah
+    choices:
+    - Septa
+    - Lobus
+    - Kapsul
+    answer: a
+    molaraExplanation: "\u201CBenar! \u201D Lobus kelenjar saliva dipisahkan oleh
+      jaringan ikat yang dikenal dengan istilah septa. "
+  - type: 0
+    question: "Duktus yang melewati struktur C merupakan duktus interlobular\u200B\r"
+    choices:
+    - Benar
+    - Salah
+    answer: a
+    molaraExplanation: "\u201CTepat Sekali!\u201D Duktus keluar dari lobus melewati
+      jaringan ikat septa untuk bergabung dengan duktus lain membentuk duktus eksretori."
+  - type: 0
+    question: Struktur C dibentuk oleh sel
+    choices:
+    - Fibroblas
+    - Endotel
+    - Epitel
+    answer: a
+    molaraExplanation: "\u201CBenar\u201D Sel fibroblas mensekresi matriks ekstraseluler
+      jaringan ikat."

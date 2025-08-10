@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3178ef63e539ed42931b4070d6ce030, type: 3}
+  m_Name: JigsawQuiz4-2
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: ee08de29a01b72643870b3053d300b9d, type: 3}
+  possibleQuestions:
+  - type: 0
+    question: "Struktur B merupakan?\r"
+    choices:
+    - Dentin
+    - Sementum
+    - Pre-dentin
+    answer: c
+    molaraExplanation: "\u201CBenar! Predentin merupakan matriks dentin yang baru
+      terbentuk dan belum mengalami mineralisasi sempurna. Sepanjang hidup sel odontoblas
+      tetap mensekresi matriks dentin yang merupakan proses fisiologis .\r\n"
+  - type: 0
+    question: "Struktur C merupakan?\r"
+    choices:
+    - "Jaringan pulpa\r"
+    - "Jaringan adiposa\r"
+    - "Jaringan ikat padat\r"
+    answer: a
+    molaraExplanation: "\u201CBenar! Jaringan pulpa merupakan jaringan gigi yang
+      tidak mengalami mineralisasi (jaringan ikat lunak). Jaringan ini terdiri dari
+      populasi sel yang heterogen, jaringan Saraf, pembuluh darah dan pembuluh limfatik.
+      \r\n"
+  - type: 0
+    question: 'Struktur B memiliki komponen inorganik lebih sedikit dari struktur
+      A?
+
+'
+    choices:
+    - Benar
+    - Salah
+    answer: a
+    molaraExplanation: "\u201CBenar! Tahap awal pembentukan dentin, dimulai Dengan
+      pembentukan pre-dentin yang terdiri dari komponen organik dentin\u201D \r\n"
+  - type: 0
+    question: "Cell rich zone merupakan zona yang ditemukan pada. Struktur ?\r"
+    choices:
+    - A
+    - B
+    - "C\r"
+    answer: c
+    molaraExplanation: "\u201CBenar! Stuktur \u201DC\u201D adalah jaringan Pulpa.
+      Cell rizh zone ditemukan di bawah cell-free zone. Pada regio cell rich zone
+      ditemukan berbagai tipe sel seperti fibroblast, makrofag dan pembuluh Darah
+      kapiler \u201D\r\n"

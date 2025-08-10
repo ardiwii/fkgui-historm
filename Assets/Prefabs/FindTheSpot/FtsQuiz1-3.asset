@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3178ef63e539ed42931b4070d6ce030, type: 3}
+  m_Name: FtsQuiz1-3
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: 53fde9b60a4d9e74793706adf3f5a1eb, type: 3}
+  possibleQuestions:
+  - type: 0
+    question: Jaringan yang ditunjuk  pada struktur A adalah
+    choices:
+    - Otot
+    - Lemak
+    - Ikat
+    answer: b
+    molaraExplanation: "\u201CBenar! \u201D Jaringan adiposa memiliki karakteristik
+      sel lemak (adiposit) yang memiliki globul besar (doplet lipid)"
+  - type: 0
+    question: Jaringan pada struktur A merupakan jaringan ikat special
+    choices:
+    - Benar
+    - Salah
+    answer: a
+    molaraExplanation: "\u201CBenar! \u201D Jaringan adiposa merupakan salah satu
+      jaringan ikat spesial , sama halnya dengan jaringan tulang, jaringan tulang
+      rawan dan jaringann darah juga merupakan jaringan ikat spesial"
+  - type: 0
+    question: Pada rongga mulut, jaringan pada struktur A dapat ditemukan pada lapisan
+    choices:
+    - Lamina propria
+    - Dermis
+    - Submukosa
+    answer: c
+    molaraExplanation: "\u201CBenar! \u201D Jaringan submukosa berada di bagian dalam
+      dari mukosa (jaringan epitel dan lamina propria)"
+  - type: 0
+    question: Jaringan yang ditunjuk pada struktur B adalah
+    choices:
+    - Otot
+    - Lemak
+    - Ikat
+    answer: c
+    molaraExplanation: "\u201CBenar! \u201D Pada gambar ini terlihat jaringan ikat
+      disekitar jaringan adiposa.  Dipercaya sel-sel pada jaringan ikat memiliki
+      potensi untuk berdiferensiasi menjadi sel lemak (prekursor)."
+  - type: 0
+    question: Pada proses embriogenesis, jaringan pada struktur  B berasal dari lapisan
+      ektoderm
+    choices:
+    - Benar
+    - Salah
+    answer: b
+    molaraExplanation: "\u201CBenar! \u201D Jaringan ikat berasal dari lapisan mesoderm\r"
+  - type: 0
+    question: Pada rongga mulut, lapisan ______ utamanya dibentuk dari jaringan pada
+      struktur B
+    choices:
+    - 'Lamina propria
+
+'
+    - Dermis
+    - "Submukosa\r"
+    answer: a
+    molaraExplanation: "\u201CBenar! \u201D Jaringan ikat membentuk lapisan lamina
+      proria yang terdiri dari lapisan papilari dan lapisan retikuler"
+  - type: 0
+    question: Jaringan yang ditunjuk pada struktur C adalah
+    choices:
+    - Otot
+    - Lemak
+    - Ikat
+    answer: a
+    molaraExplanation: "\u201CBenar! \u201D Pada mukosa rongga mulut, jaringan otot
+      ditemukan pada lapisan submukosa"
+  - type: 0
+    question: Jaringan pada struktur C merupakan karakteristik memiliki lurik
+    choices:
+    - Benar
+    - Salah
+    answer: a
+    molaraExplanation: "\u201CTepat sekali! \u201D Otot rangka memiliki karakteristik
+      lurik (striated)\r"
+  - type: 0
+    question: Potongan dari jaringan pada struktur C adalah
+    choices:
+    - Longitudinal
+    - Oblik
+    - Transversal
+    answer: c
+    molaraExplanation: "\u201CBenar! \u201D Pada potongan transversal serat otot
+      terlihat berbentuk oval, spherical atau poligonal."

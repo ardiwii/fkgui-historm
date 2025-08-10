@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3178ef63e539ed42931b4070d6ce030, type: 3}
+  m_Name: FtsQuiz4-4
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: fc0a0fcf067cdee4c9820cb5b9d4e01b, type: 3}
+  possibleQuestions:
+  - type: 0
+    question: "DENTIN merupakan struktur?\u200B"
+    choices:
+    - A
+    - B
+    - C
+    answer: a
+    molaraExplanation: 'Benar! Struktur A menunjukkan DENTIN, jaringan keras gigi
+      yang terususun atas tubulus dentin yang berisi prosesus sel odontoblas '
+  - type: 0
+    question: "PREDENTIN merupakan struktur ?\u200B"
+    choices:
+    - A
+    - B
+    - C
+    answer: b
+    molaraExplanation: Benar! Struktur B menunjukkan PREDENTIN, yang merupakan organik
+      matriks dentin yang belum termineralisasi sempurna. Deposisi kalsium fosfat
+      dalam bentuk kristral hidroksiapatit diperlukan untuk proses mineralisasi jaringan
+      predentin.
+  - type: 0
+    question: "LAPISAN SEL ODONTOBLAS merupakan struktur ?\u200B"
+    choices:
+    - B
+    - C
+    - D
+    answer: b
+    molaraExplanation: 'Benar! Lapisan sel odontoblas berada pada tepi jaringan dentin/pre-dentin.
+      Sel ini bertanggung jawab mensekresi matriks organik jaringan dentin dan proses
+      mineralisasi jaringan. '
+  - type: 0
+    question: "PULPA PROPER merupakan struktur ?\u200B"
+    choices:
+    - C
+    - D
+    - E
+    answer: c
+    molaraExplanation: "Benar! Pulpa proper adalah lapisan terdalam jaringan pulpa,
+      yang merupakan jaringan ikat yang terdiri dari jaringan ikat, jaringan saraf
+      dan pembuluh darah \u200B"

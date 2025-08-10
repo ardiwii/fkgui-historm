@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 8dca9ce143d0df54ebb0f1970a8784f3
+  - enabled: 1
+    path: Assets/Scenes/Stages/Crossword/Stage 2-5.unity
+    guid: 5abca8035ae932d4dbf6735004c46ee8
+  - enabled: 1
+    path: Assets/Scenes/Stages/Crossword/Stage 3-5.unity
+    guid: f9b1cafde30db044cb85f2705fc26984
+  - enabled: 1
+    path: Assets/Scenes/Stages/FindTheSpot/Stage 1-3.unity
+    guid: 135943c9aee680b48acf319666a681c7
+  - enabled: 1
+    path: Assets/Scenes/Stages/FindTheSpot/Stage 1-4.unity
+    guid: b5d2494e604f0034b9e610941a1c711f
+  - enabled: 1
+    path: Assets/Scenes/Stages/FindTheSpot/Stage 1-5.unity
+    guid: daf8be0280e914b419915a119b45cf41
+  - enabled: 1
+    path: Assets/Scenes/Stages/FindTheSpot/Stage 3-1.unity
+    guid: d33dcdd942e65ec4eb8e7b19774c3dfe
+  - enabled: 1
+    path: Assets/Scenes/Stages/FindTheSpot/Stage 3-3.unity
+    guid: 7672540bc4e405f40bf69dd1064d4ddd
+  - enabled: 1
+    path: Assets/Scenes/Stages/Jigsaw/Stage 1-1.unity
+    guid: 481269d1f62b9c6448f0da50db111c4a
+  - enabled: 1
+    path: Assets/Scenes/Stages/Jigsaw/Stage 1-2.unity
+    guid: 3ffdbd629998d8446b66d9bdfa961cc3
+  - enabled: 1
+    path: Assets/Scenes/Stages/Jigsaw/Stage 2-1.unity
+    guid: d7e491b2ad639f844b7cb1f603b48405
+  - enabled: 1
+    path: Assets/Scenes/Stages/Jigsaw/Stage 2-2.unity
+    guid: 47259ef2f79c1b14fb99ce9e89d1405d
+  - enabled: 1
+    path: Assets/Scenes/Stages/Jigsaw/Stage 2-3.unity
+    guid: ff9463df0e1a6884ca82e0485372e2e2
+  - enabled: 1
+    path: Assets/Scenes/Stages/Jigsaw/Stage 3-2.unity
+    guid: 1721754b03b8e7141985d6c4df0f25da
+  - enabled: 1
+    path: Assets/Scenes/Stages/Match/Stage 2-4.unity
+    guid: 54b8c474286092741982f817f2795eb2
+  - enabled: 1
+    path: Assets/Scenes/Stages/Match/Stage 3-4.unity
+    guid: c6b9fe11daebe0c48828c87394810135
+  - enabled: 1
+    path: Assets/Scenes/Stages/FindTheSpot/Stage 4-3.unity
+    guid: 302c47e065042b4468c6e01494db5a43
+  - enabled: 1
+    path: Assets/Scenes/Stages/FindTheSpot/Stage 4-4.unity
+    guid: ede14bf4d45c51d4aba3752646892a90
+  - enabled: 1
+    path: Assets/Scenes/Stages/FindTheSpot/Stage 4-5.unity
+    guid: 05ad4b1313186224ab3bab834f4d58e7
+  - enabled: 1
+    path: Assets/Scenes/Stages/FindTheSpot/Stage 5-3.unity
+    guid: d6cbce7c4dd17644a947b0f526afa264
+  - enabled: 1
+    path: Assets/Scenes/Stages/FindTheSpot/Stage 6-1.unity
+    guid: a555fe777a5964948b3e18f09bc81192
+  - enabled: 1
+    path: Assets/Scenes/Stages/FindTheSpot/Stage 6-3.unity
+    guid: a8127172fb0046546877e4517f13fc05
+  - enabled: 1
+    path: Assets/Scenes/Stages/Match/Stage 5-4.unity
+    guid: a96ac1848c684044d965b7e6656ad01e
+  - enabled: 1
+    path: Assets/Scenes/Stages/Match/Stage 6-4.unity
+    guid: 06b5f5ef33d368d4e95a5e410ddb693e
+  - enabled: 1
+    path: Assets/Scenes/Stages/Jigsaw/Stage 4-1.unity
+    guid: 99f70545c6b36a3418ee5eef2317b25f
+  - enabled: 1
+    path: Assets/Scenes/Stages/Jigsaw/Stage 4-2.unity
+    guid: 57934e102ed37d341b76c115fe204f88
+  - enabled: 1
+    path: Assets/Scenes/Stages/Jigsaw/Stage 5-1.unity
+    guid: 5dd6168eb24b1f941873c7f378467b08
+  - enabled: 1
+    path: Assets/Scenes/Stages/Jigsaw/Stage 5-2.unity
+    guid: bd211e0d66c80094b8d953204db1b5b4
+  - enabled: 1
+    path: Assets/Scenes/Stages/Jigsaw/Stage 5-3.unity
+    guid: daf73c1162cc024459662658a04b7321
+  - enabled: 1
+    path: Assets/Scenes/Stages/Jigsaw/Stage 6-2.unity
+    guid: c8aa11d0de558974e93999a2cb9be989
+  - enabled: 1
+    path: Assets/Scenes/Stages/Crossword/Stage 5-5.unity
+    guid: 4f0dcc209d7fba9499e4000c0dcd05d4
+  - enabled: 1
+    path: Assets/Scenes/Stages/Crossword/Stage 6-5.unity
+    guid: 0ae450172d9a60449a86367b7153a8e6
+  m_configObjects: {}

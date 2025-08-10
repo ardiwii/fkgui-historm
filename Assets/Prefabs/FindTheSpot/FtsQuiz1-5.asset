@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3178ef63e539ed42931b4070d6ce030, type: 3}
+  m_Name: FtsQuiz1-5
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: fca434736ea02fa48ac07669c6830c44, type: 3}
+  possibleQuestions:
+  - type: 0
+    question: Struktur A merupakan?
+    choices:
+    - Rete pegs
+    - Simpel Epithelium
+    - Keratin
+    answer: a
+    molaraExplanation: "\u201CBenar!\u201D Rete pegs atau merupakan penonjolan atau
+      perpanjangan jaringan epitel ke arah jaringan dibawahnya. Fungsi utamanya sebagai
+      resistensi mekanis."
+  - type: 0
+    question: Lapisan dibawah struktur A adalah
+    choices:
+    - Submukosa
+    - Lamina Propria
+    - Keratin
+    answer: b
+    molaraExplanation: "\u201CBenar!\u201D Lamina propria merupakan jaringan ikat
+      dibawah jaringan epitel. Lamina propria terdiiri dari (1) lapisan papilari
+      yang berada di bawah membran basalis dan (2) lapisan retikuler."
+  - type: 0
+    question: Struktur B merupakan?
+    choices:
+    - Tulang rawan
+    - Tulang kompakta
+    - Tulang trabekula
+    answer: b
+    molaraExplanation: "\u201CBenar!\u201D Karakteristik dari mastikatori mukosa
+      adalah tidak memiliki submukosa. Lamina propria berhadapan langsung dengan
+      periosteum, yang merupakan jaringan ikat di permukaan luar jaringan tulang."
+  - type: 0
+    question: Sel pembentuk struktur B adalah?
+    choices:
+    - Osteoblast
+    - Osteoklast
+    - Osteopontin
+    answer: a
+    molaraExplanation: "\u201CBenar!\u201D Osteoblast merupakan sel yang berperan
+      dalam sintesis matriks tulang. Sel ini ditemukan pada bagian permukaan jaringan
+      tulang."
+  - type: 0
+    question: Struktur C merupakan?
+    choices:
+    - Rete pegs
+    - Simple epitel
+    - Keratin
+    answer: c
+    molaraExplanation: "\u201CBenar!\u201D Lapisan keratin ditemukan pada mukosa
+      mastikasi seperti palatum. Lapisan ini mengandung protein yang disekresi oleh
+      sel keratosit"
+  - type: 0
+    question: 'Di dalam rongga mulut, struktur C dapat ditemukan pada:'
+    choices:
+    - Mukosa bukal
+    - Dasar mulut
+    - Palatum
+    answer: c
+    molaraExplanation: "\u201CBenar!\u201D Mukosa oral umumnya merupakan jaringan
+      epitel berlapis gepeng nonkeratin, kecuali mukosa mastikasi seperti palatum
+      yang menerima beban mastikasi.  Mukosa bukal dan mukosa dasar mulut merupakan
+      jaringan epitel berlapis gepeng nonkeratin. "

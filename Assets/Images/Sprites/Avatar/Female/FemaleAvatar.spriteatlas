@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FemaleAvatar
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 40dc31389389d264583f38e598ad2814, type: 3}
+    - {fileID: 21300000, guid: a097f3ecf023feb4189e39205a12288c, type: 3}
+    - {fileID: 21300000, guid: 29b7f17e1ce62e043965ea3b9e1e86ab, type: 3}
+    - {fileID: 21300000, guid: bed32d9f02fc48b4e8a720f84f208319, type: 3}
+    - {fileID: 21300000, guid: b8d93362b12c404418790ec549ff5b88, type: 3}
+    - {fileID: 21300000, guid: 5bcd08cb36df2b24ca6594ad8b8f349b, type: 3}
+    - {fileID: 21300000, guid: c633eb3ee4060ba408472b9cca641e2e, type: 3}
+    - {fileID: 21300000, guid: 3c217199ede9cc6448bec0f8b8c9e03d, type: 3}
+    - {fileID: 21300000, guid: fb9e210525513c7468f2825ecbe3f75c, type: 3}
+    - {fileID: 21300000, guid: d152190b6aca3eb448e1a2e1ac706a78, type: 3}
+    - {fileID: 21300000, guid: fbcf5fccb10e8aa43b04159e897ec522, type: 3}
+    - {fileID: 21300000, guid: 4990f6617d13cfd429dd11ac57f51863, type: 3}
+    - {fileID: 21300000, guid: c22c79218196a6a4d8ebb84283bb0c2d, type: 3}
+    - {fileID: 21300000, guid: 51c007c1aebbb9740bfc40207e475870, type: 3}
+    - {fileID: 21300000, guid: a25182a4b7387214db5098f8de79d877, type: 3}
+    - {fileID: 21300000, guid: d31b597fa79d07f42a3ab186ba7056a8, type: 3}
+    - {fileID: 21300000, guid: efb5accb8429e4d4eb832f0802eb5e60, type: 3}
+    - {fileID: 21300000, guid: 8dd7f133ea9ce7c449570479981465af, type: 3}
+    - {fileID: 21300000, guid: 15b98ddaf8e0e9f4aa319e5964f5745d, type: 3}
+    - {fileID: 21300000, guid: 8b6382eabb5d513479ab3c8afa20fe17, type: 3}
+    - {fileID: 21300000, guid: f6e13307a1ec90047bfebd8a83f0218a, type: 3}
+    - {fileID: 21300000, guid: cdd3768399139bd42887271d271a7427, type: 3}
+    - {fileID: 21300000, guid: 1fef50d495ae1004f90378356a753bdc, type: 3}
+    - {fileID: 21300000, guid: 9461fa6276fe1354588ef3df3bad8e26, type: 3}
+    - {fileID: 21300000, guid: 2ed936feb7b502449b05a223176af09f, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c22c79218196a6a4d8ebb84283bb0c2d, type: 3}
+  - {fileID: 21300000, guid: 4990f6617d13cfd429dd11ac57f51863, type: 3}
+  - {fileID: 21300000, guid: 51c007c1aebbb9740bfc40207e475870, type: 3}
+  - {fileID: 21300000, guid: b8d93362b12c404418790ec549ff5b88, type: 3}
+  - {fileID: 21300000, guid: 9461fa6276fe1354588ef3df3bad8e26, type: 3}
+  - {fileID: 21300000, guid: 8dd7f133ea9ce7c449570479981465af, type: 3}
+  - {fileID: 21300000, guid: cdd3768399139bd42887271d271a7427, type: 3}
+  - {fileID: 21300000, guid: a25182a4b7387214db5098f8de79d877, type: 3}
+  - {fileID: 21300000, guid: 1fef50d495ae1004f90378356a753bdc, type: 3}
+  - {fileID: 21300000, guid: fb9e210525513c7468f2825ecbe3f75c, type: 3}
+  - {fileID: 21300000, guid: f6e13307a1ec90047bfebd8a83f0218a, type: 3}
+  - {fileID: 21300000, guid: 40dc31389389d264583f38e598ad2814, type: 3}
+  - {fileID: 21300000, guid: 3c217199ede9cc6448bec0f8b8c9e03d, type: 3}
+  - {fileID: 21300000, guid: 15b98ddaf8e0e9f4aa319e5964f5745d, type: 3}
+  - {fileID: 21300000, guid: 8b6382eabb5d513479ab3c8afa20fe17, type: 3}
+  - {fileID: 21300000, guid: d152190b6aca3eb448e1a2e1ac706a78, type: 3}
+  - {fileID: 21300000, guid: 5bcd08cb36df2b24ca6594ad8b8f349b, type: 3}
+  - {fileID: 21300000, guid: efb5accb8429e4d4eb832f0802eb5e60, type: 3}
+  - {fileID: 21300000, guid: fbcf5fccb10e8aa43b04159e897ec522, type: 3}
+  - {fileID: 21300000, guid: a097f3ecf023feb4189e39205a12288c, type: 3}
+  - {fileID: 21300000, guid: c633eb3ee4060ba408472b9cca641e2e, type: 3}
+  - {fileID: 21300000, guid: 29b7f17e1ce62e043965ea3b9e1e86ab, type: 3}
+  - {fileID: 21300000, guid: 2ed936feb7b502449b05a223176af09f, type: 3}
+  - {fileID: 21300000, guid: d31b597fa79d07f42a3ab186ba7056a8, type: 3}
+  - {fileID: 21300000, guid: bed32d9f02fc48b4e8a720f84f208319, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Avatar_F_Hair03
+  - Avatar_F_Hair02
+  - Avatar_F_Hair04
+  - Avatar_F_Body04
+  - Avatar_F_Shirt05
+  - Avatar_F_Hair08
+  - Avatar_F_Shirt03
+  - Avatar_F_Hair05
+  - Avatar_F_Shirt04
+  - Avatar_F_Face0301
+  - Avatar_F_Shirt02
+  - Avatar_F_Acc01
+  - Avatar_F_Face0201
+  - Avatar_F_Hair09
+  - Avatar_F_Shirt01
+  - Avatar_F_Face0401
+  - Avatar_F_Coat01
+  - Avatar_F_Hair07
+  - Avatar_F_Hair01
+  - Avatar_F_Body01
+  - Avatar_F_Face0101
+  - Avatar_F_Body02
+  - Avatar_F_Shirt06
+  - Avatar_F_Hair06
+  - Avatar_F_Body03
+  m_RenderDataMap: {}
+  m_Tag: FemaleAvatar
+  m_IsVariant: 0

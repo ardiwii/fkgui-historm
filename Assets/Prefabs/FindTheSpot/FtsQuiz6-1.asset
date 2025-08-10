@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3178ef63e539ed42931b4070d6ce030, type: 3}
+  m_Name: FtsQuiz6-1
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: 7053696c47d1dbf4ab59c664b1c5618b, type: 3}
+  possibleQuestions:
+  - type: 0
+    question: "Keratosit ditemukan pada struktur?\u200B"
+    choices:
+    - A
+    - B
+    - A dan B
+    answer: c
+    molaraExplanation: "Benar! Keratosit membentuk jaringan ikat, baik jaringan ikat
+      berkeratin maupun non-keratin.\u200B"
+  - type: 0
+    question: "Struktur ini dibentuk oleh sel fibroblas?\u200B"
+    choices:
+    - A dan B
+    - C
+    - D
+    answer: b
+    molaraExplanation: "Benar! Fibroblas membentuk jaringan ikat, lamina propria
+      yang ditampilkan pada gambar. Sel ini mensekresi protein kolagen.\u200B"
+  - type: 0
+    question: "Jaringan ikat termineraslisasi ditemukan pada struktur?\u200B"
+    choices:
+    - B
+    - C dan D
+    - D
+    answer: c
+    molaraExplanation: Benar! Tulang alveolar ditemukan berkontak langsung dengan
+      lamina propria. Struktur ini umum ditemukan pada mukosa mastikasi seperti gingiva
+      dan palatum durum

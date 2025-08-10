@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11f3451aab2fbd943824c29d8c31a9e8, type: 3}
+  m_Name: MaleAvatarPartDB
+  m_EditorClassIdentifier: 
+  body:
+  - {fileID: 11400000, guid: c53fb6d3a59c8d34d8faeec4e1593bbd, type: 2}
+  - {fileID: 11400000, guid: 27b8d91228c693f41b354f1844f9bc8c, type: 2}
+  - {fileID: 11400000, guid: 94de19e0e6a17d94ab0b935962d613b8, type: 2}
+  - {fileID: 11400000, guid: 5e694a3672000c84d84f7873fd14b327, type: 2}
+  face:
+  - {fileID: 21300000, guid: 8cde06962d36d9c41b43ae13ecec8e55, type: 3}
+  - {fileID: 21300000, guid: 89252f9c94669294f81091cdc874518b, type: 3}
+  - {fileID: 21300000, guid: 504b7fdb4e84fce4f94a5fcefd53d9c1, type: 3}
+  - {fileID: 21300000, guid: b02efcdbd9ea0654f987a0c66b84b43b, type: 3}
+  shirt:
+  - {fileID: 21300000, guid: e5b3a7670e71a0140b311e84d45eae11, type: 3}
+  - {fileID: 21300000, guid: 0365bff4b65606244b7e9ddab42cc882, type: 3}
+  - {fileID: 21300000, guid: b36aded4a84c9054982fafdaa9f8b44c, type: 3}
+  - {fileID: 21300000, guid: 1d73d55954e51a04887e64fd75af0501, type: 3}
+  - {fileID: 21300000, guid: 0e0aedbc5c890a94b9b1fcd3deb80799, type: 3}
+  - {fileID: 21300000, guid: 6c9d69b5e98574048b969bb33312e0f7, type: 3}
+  hair:
+  - {fileID: 21300000, guid: 6cfca55d79b87e94e800e1a025784466, type: 3}
+  - {fileID: 21300000, guid: 464f23d23fea75c4bbfc7088afaea9fb, type: 3}
+  - {fileID: 21300000, guid: 6c93f1ad26e8a0c4e9bf1f2a72fa427c, type: 3}
+  - {fileID: 21300000, guid: effb38a395148ea4aa6582ce6e483861, type: 3}
+  - {fileID: 21300000, guid: 2692a1a44a25bb14eb62361438c83cdd, type: 3}
+  - {fileID: 21300000, guid: e148974dddbe70f47a6e2d9923cbb534, type: 3}
+  acc:
+  - {fileID: 0}
+  - {fileID: 21300000, guid: 32f8f0080144b0647becbfd5f8aceaad, type: 3}
+  - {fileID: 21300000, guid: 1aac8deae96a2fe4897eb5d55d160bf4, type: 3}
+  - {fileID: 21300000, guid: 05dc14d6cc712e3459e3b7454245797d, type: 3}
+  - {fileID: 21300000, guid: 4eacdea294765da4b99469b7a08f76c4, type: 3}
+  - {fileID: 21300000, guid: 23c95bce209a888408663e773d914bc5, type: 3}
+  - {fileID: 21300000, guid: 85d4832aad16f5942834df8a3bea9539, type: 3}
+  - {fileID: 21300000, guid: d7f02293f92c2734fbf5a7489301e612, type: 3}
+  - {fileID: 21300000, guid: c850fa8e8a2b285498f3e41868121699, type: 3}
+  - {fileID: 21300000, guid: 4b88be15ec5be3844bd1cddeefeea945, type: 3}
+  - {fileID: 21300000, guid: c4b7ffb1b2aa07a4c98de70291b2edff, type: 3}
+  - {fileID: 21300000, guid: 7e6cce94d7db2fd47aa24b8ce362d14a, type: 3}
+  - {fileID: 21300000, guid: e28718da580413341a429f6c52c64649, type: 3}
+  - {fileID: 21300000, guid: e4c49f48abdb6954ba61a2eb9860bdb2, type: 3}
+  - {fileID: 21300000, guid: 37d4c44fdc67d244bb25cd2657612c5f, type: 3}
+  - {fileID: 21300000, guid: 9c396b3cd4ff01044ab95e0a19aae5e2, type: 3}
+  - {fileID: 21300000, guid: bf7e1906a08df5c4d99b7abe1f090b17, type: 3}
+  - {fileID: 21300000, guid: 867da0c2b111e9c40a55d050e2c0dfde, type: 3}
+  - {fileID: 21300000, guid: 93c4f28328835844f84e2c532b1647dd, type: 3}
+  - {fileID: 21300000, guid: 4c8584e27697eea4c8b5f1b520437692, type: 3}
+  - {fileID: 21300000, guid: 2068c7f37186f644abfd0f27b961e344, type: 3}
+  - {fileID: 21300000, guid: 917c244efcb27cb41b631adb57ffd6f9, type: 3}
+  - {fileID: 21300000, guid: cb9d672e8ec2b0a4fa162ab6fc2c53f7, type: 3}
+  - {fileID: 21300000, guid: eb0152b7c85744340b9375a14d9729d0, type: 3}
+  - {fileID: 21300000, guid: 0c065e93da140d5428a27667ac52754d, type: 3}
+  - {fileID: 21300000, guid: b0737cb1eb108dc449022a5d6304f473, type: 3}
+  - {fileID: 21300000, guid: 05c4b08fc587d6b47bf1ec214e964e67, type: 3}
+  color:
+  - {r: 0.85882354, g: 0.80784315, b: 0.7764706, a: 1}
+  - {r: 0.25490198, g: 0.23921569, b: 0.19607843, a: 1}
+  - {r: 0.9411765, g: 0.5882353, b: 0.47058824, a: 1}
+  - {r: 0.60784316, g: 0.32156864, b: 0.5372549, a: 1}
+  - {r: 0.84313726, g: 0.5568628, b: 0.7882353, a: 1}
+  - {r: 0.52156866, g: 0.58431375, b: 0.34901962, a: 1}
+  - {r: 0.98039216, g: 0.73333335, b: 0.38431373, a: 1}
+  - {r: 0.2627451, g: 0.37254903, b: 0.5254902, a: 1}
+  - {r: 0.6666667, g: 0.34509805, b: 0.3019608, a: 1}

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3178ef63e539ed42931b4070d6ce030, type: 3}
+  m_Name: FtsQuiz5-3
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: ded0d6c7cf3517a4b9d60f167655ac4c, type: 3}
+  possibleQuestions:
+  - type: 0
+    question: "Struktur A merupakan?\u200B"
+    choices:
+    - Email
+    - Dentin
+    - Sementum
+    answer: b
+    molaraExplanation: "Benar!  Struktur A merupakan dentin yang memiliki komponen
+      mineral 70% (berat kering). Lebih keras dibandingkan tulang dengan komponen
+      mineral kurang lebih 30% (berat kering)\u200B"
+  - type: 0
+    question: "Struktur B merupakan?\u200B"
+    choices:
+    - Dentin
+    - Sementum seluler
+    - Sementum aseluler
+    answer: c
+    molaraExplanation: "Benar!  pada sementum aseluler tidak ditemukan sementosit
+      yang tertanam pada matriks jaringan\u200B"
+  - type: 0
+    question: "Struktur C merupakan?\u200B"
+    choices:
+    - Dentin
+    - Sementum seluler
+    - Tulang alveolar
+    answer: b
+    molaraExplanation: "Benar!  Sementum seluler terdiri matriks termineralisasi
+      dan sel sementosit, yang merupakan diferensiasi terminal sel sementoblas. \u200B"
+  - type: 0
+    question: "Struktur E merupakan?\u200B"
+    choices:
+    - Dentin
+    - Sementum seluler
+    - Tulang alveolar
+    answer: c
+    molaraExplanation: "Benar! Tulang alveolar terdiri dari matriks termineralisasi.
+      Dibandingkan sementum, kandungan mineral jaringan tulang lebih tinggi. Namun
+      lebih rendah dibandingkan jaringan dentin\u200B"

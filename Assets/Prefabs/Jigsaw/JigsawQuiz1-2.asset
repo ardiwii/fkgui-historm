@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3178ef63e539ed42931b4070d6ce030, type: 3}
+  m_Name: JigsawQuiz1-2
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: 9fbcb1f7c9683a049bf3b2eb5bc6c4f9, type: 3}
+  possibleQuestions:
+  - type: 0
+    question: Struktur A merupakan?
+    choices:
+    - 'Jaringan epitel berlapis gepeng tanpa keratin '
+    - 'Jaringan epitel berlapis gepeng dengan keratin '
+    - 'Jaringan epitel selapis gepeng tanpa keratin '
+    answer: b
+    molaraExplanation: Benar! Struktur A menunjukkan jaringan mukosa mastikatori/
+      masticatory mucosa. Karakteristik utama dari mukosa mastikatori adalah  memiliki
+      lapisan epitel berlapis gepeng dengan keratin
+  - type: 0
+    question: Struktur A umumnya ditemukan pada?
+    choices:
+    - Gingiva
+    - "Mukosa bukal\r"
+    - Dasar mulut
+    answer: a
+    molaraExplanation: Benar! Gingiva adalah salah satu contoh mukosa mastikatori.
+      Selain di gingiva, mukosa mastikatori dapat ditemukan di palatum durum.
+  - type: 0
+    question: Lapisan terluar Struktur A merupakan?
+    choices:
+    - Nonkeratin
+    - Parakeratin
+    - Orthokeratin
+    answer: b
+    molaraExplanation: Benar! Karakteristik jaringan epitel berlapis gepeng parakeratin
+      adalah ditemukannya nukleus sel keratosit pada lapisan keratin

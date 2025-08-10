@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f66cf564e8e9f4245879380387a2b4e5, type: 3}
+  m_Name: CrosswordTutorial
+  m_EditorClassIdentifier: 
+  Images:
+  - {fileID: 21300000, guid: 9cd2cecff688e2041bd56b7f5a33c3c6, type: 3}
+  - {fileID: 21300000, guid: e17dbad729452534bb9efadebdb950f5, type: 3}
+  - {fileID: 21300000, guid: 0d2cf4056217738418dd5d1e88aad813, type: 3}
+  - {fileID: 21300000, guid: efe81a27d4f606d45a7cb8037d43c3c4, type: 3}

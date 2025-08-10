@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3178ef63e539ed42931b4070d6ce030, type: 3}
+  m_Name: FtsQuiz6-3
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: 7053696c47d1dbf4ab59c664b1c5618b, type: 3}
+  possibleQuestions:
+  - type: 0
+    question: "Gambar berikut merupakan skematik dari jaringan?\u200B"
+    choices:
+    - Email
+    - Pulpa
+    - Sementum
+    answer: b
+    molaraExplanation: "Benar! Pada gambaran skematik terlihat jaringan gigi yaitu
+      dentin dan jaringan pulpa. Jaringan pulpa memiliki kemampuan regenerasi, dengan
+      proliferasi sel-sel stroma/punca mesenkim yang berada pada cell-rich zone area
+      \u200B"
+  - type: 0
+    question: "Struktur ini dibentuk oleh sel fibroblas?\u200B"
+    choices:
+    - A dan B
+    - C
+    - D
+    answer: c
+    molaraExplanation: "Benar! Fibroblas membentuk jaringan ikat pulpa. Selain fibroblas,
+      berbagai sel lain ditemukan pada jaringan pulpa seperti endotel, sel Saraf,
+      odontoblas dan pre-odontoblas \u200B"
+  - type: 0
+    question: "Tubulus dentin yang berisikan cairan dan prosesus sel odontoblas ditemukan
+      pada struktur?\u200B"
+    choices:
+    - B
+    - C dan D
+    - A
+    answer: c
+    molaraExplanation: "Benar! Tubulus dentin membentuk jaringan dentin. Tubulus
+      dentin dapat dibagi menjadi, intratubulus dentin, intertubulus dentin dan peritubulus.
+      \u200B"

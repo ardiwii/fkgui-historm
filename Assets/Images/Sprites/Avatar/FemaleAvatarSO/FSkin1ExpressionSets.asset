@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f4c37505cb0996409165cd471988ee2, type: 3}
+  m_Name: FSkin1ExpressionSets
+  m_EditorClassIdentifier: 
+  body: {fileID: 21300000, guid: a097f3ecf023feb4189e39205a12288c, type: 3}
+  expressionSets:
+  - face: {fileID: 21300000, guid: c633eb3ee4060ba408472b9cca641e2e, type: 3}
+    coat: {fileID: 21300000, guid: 5bcd08cb36df2b24ca6594ad8b8f349b, type: 3}
+    hand: {fileID: 0}
+  - face: {fileID: 21300000, guid: 5eaa7dc6b0c6b9c42a7d83d8c8ad5fe8, type: 3}
+    coat: {fileID: 21300000, guid: 44c8e0a00f570b54298cbcea7b9b46bf, type: 3}
+    hand: {fileID: 21300000, guid: daddf215fef61134ab95b29f0ca41a0b, type: 3}
+  - face: {fileID: 21300000, guid: 7e616fc1ad388904c95604521c7e9cac, type: 3}
+    coat: {fileID: 21300000, guid: 5bcd08cb36df2b24ca6594ad8b8f349b, type: 3}
+    hand: {fileID: 21300000, guid: 989877d4f88e9d547810eec095fbb090, type: 3}
+  - face: {fileID: 21300000, guid: 3dca55a3a85a2bf44a3d6205a09b9fad, type: 3}
+    coat: {fileID: 21300000, guid: ac89249d241724241a930afe7837da8b, type: 3}
+    hand: {fileID: 21300000, guid: 65070a1615d3b634e8827375a4252fb1, type: 3}

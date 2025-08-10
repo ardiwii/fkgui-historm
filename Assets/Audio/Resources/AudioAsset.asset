@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f4230ce1542a09489940b1964e6ee1a, type: 3}
+  m_Name: AudioAsset
+  m_EditorClassIdentifier: 
+  ButtonTap: {fileID: 8300000, guid: ad498f9e35f858848aa0a96f78fc393a, type: 3}
+  ChangeSceneClick: {fileID: 8300000, guid: b030ec180be15a94fa34e5518f9d10a4, type: 3}
+  GetStar: {fileID: 8300000, guid: 3394637f4a196df4e921d4b1656de370, type: 3}
+  Mistake: {fileID: 8300000, guid: 19e9fa82a5d55b44eb4cc36d56d10f5d, type: 3}
+  PickingPiece: {fileID: 8300000, guid: 36c326eb21ed53643b9c252215fb9b5b, type: 3}
+  DropPiece: {fileID: 8300000, guid: 79ec0463c6a352448afb0a515c5439a7, type: 3}
+  Win: {fileID: 8300000, guid: 4fcce5f23891f9c43aec0dbdbb1d9ba9, type: 3}
+  CrosswordType: {fileID: 8300000, guid: ad498f9e35f858848aa0a96f78fc393a, type: 3}
+  StageMusic: {fileID: 8300000, guid: abe3ddea2f454be41bb1e24be88e06b7, type: 3}
+  MainMenuMusic: {fileID: 8300000, guid: 401243c753715b24a9a93c8114917bea, type: 3}
